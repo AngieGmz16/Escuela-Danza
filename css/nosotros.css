@@ -1,0 +1,225 @@
+h4{
+	margin-top: 50px;
+	text-align: center;
+}
+
+nav ul{
+	list-style-type: none;
+	padding-top: 30px;
+	margin-right: 100px;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+}
+
+
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 20px;
+}
+
+
+nav li:hover a{
+	background: #192951;
+}
+
+
+nav a{
+	text-decoration: none;
+	padding: 10px 25px;
+	color: #CCCCCC;
+	font-weight: bold;
+}
+
+
+nav a:hover{
+	color: #fff;
+}
+
+
+.nosotros{
+	background-image: url("../img/dance_7.jpg");
+	background-size: 150%;
+	min-height: 450px;
+	background-repeat: no-repeat;
+}
+
+h3{
+	text-align: center;
+	margin-top: 60px;
+	color: white;
+	padding-top: 35px;
+}
+
+p{
+	text-align: center;
+	margin: auto;
+	position: relative;
+	color: white;
+	margin-top: 20px;
+	font-size: 18px;
+	padding-left: 25px;
+	padding-right: 30px;
+	
+}
+
+.caja{
+	border: 1px black;
+	width: 50%;
+	height: 180px;
+	position: relative;
+	left: 26%;
+	background-color: black;
+	opacity: .70;
+	margin-top: 200px;
+}
+
+
+.fondito{
+	background-image: url("../img/fondo3.png");
+	background-size: 100%;
+	background-repeat: repeat;
+	height: 300px;
+
+}
+
+
+h4{
+	margin-top:100px;
+	color: gray;
+
+
+}
+
+
+h6{
+	color: white;
+	margin-top: 30px;
+
+}
+
+hr{
+	margin-top: 25px;
+	width: 200px;
+	height: 4px;
+	background-color: gray;
+	left: 40px;
+	position: relative;
+
+}
+
+.texto1{
+	color: black;
+	font-size: 15px;
+	margin-bottom: 20px;
+}
+
+.alinear{
+	position: relative;
+	margin-left: -50px;
+}
+.left{
+	position: relative;
+	margin-right: 30px;
+} 
+#sam{
+	margin-right: 110px;
+}
+.kim{
+	margin-right: 80px;
+}
+
+
+
+h2{
+	position: relative;
+	left: 380px;
+	margin-top: 50px;
+}
+
+img{
+	width: 100%;
+	height:150px;
+	position: relative;
+	margin-top: 70px;
+	margin-bottom: -80px;
+}
+
+h1{
+	margin-top: 150px;
+	font-family: Latolight;
+	src: url(../fonts/Latolight.ttf);
+	font-style: oblique;
+	position: relative;
+	left: 30%
+}
+
+.contacto{
+	margin-top: 50px;
+	position: relative;
+	left: 25px;
+	color: #192951;
+
+}
+
+.text2{
+	color: gray;
+	font-size: 20px;
+}
+
+
+
+.cuadro{
+	border: 2px solid gray;
+	width: 350px;
+	height: 50px;
+	left: 20px;
+	position: relative;
+	margin-top: 20px;
+	padding-left: 10px;
+	padding-top: 15px;
+	border-radius: 5%;
+}
+
+.icon{
+	width: 50px;
+	height: 20px;
+	position: relative;
+	left: 50px;
+	margin-top: 8px;
+	margin-bottom: -60px;
+
+}
+
+.shoes{
+	position: relative;
+	width: 90%;
+	height: 400px;
+	left: 62px;
+	margin-top: 70px;
+}
+
+
+.boton4{
+	color: white;
+	font-size: 20px;
+	background-color: #192951;
+	width: 350px;
+	height: 43px;
+	margin-top: 15%;
+	padding-top: 10px;
+	padding-left: 25px;
+	position: relative;
+	left: 25px;
+	border-radius: 5%
+
+}
+
+.azulito{
+	background-image: url("../img/azul.jpg");
+	background-size: 100%;
+	height: 70px;
+	margin-top: 100px;
+}
